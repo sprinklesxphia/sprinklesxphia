@@ -15,13 +15,13 @@ I am Sophia Parrillo, an UI/UX Developer from Dayton, Ohio.
    Building my experience through personal projects. 
 
 I’m looking to collaborate on ...
-  Web Administration
-  Email Templates
-  Video Editing 
-  Freelance Back-end Development
-  Website redevelopments
-  Data mapping projects
-  Motion Graphics
+  - Web Administration
+  - Email Templates
+  - Video Editing 
+  - Freelance Back-end Development
+  - Website redevelopments
+  - Data mapping projects
+  - Motion Graphics
 
 I’m looking for help with ...
   Getting Connected
